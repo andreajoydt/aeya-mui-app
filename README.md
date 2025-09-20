@@ -1,12 +1,18 @@
-# React + Vite
+# React SPA with Material UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My first Single Page Application (SPA) built with **React** and **Material UI** as part of our ReactJS training.  
+This project helped me learn the basics of building responsive UIs, using components, and applying themes.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Custom **AppBar** with theme switcher (light/dark mode)
+- Profile section with avatar and details card
+- Divider for clean separation of sections
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+- **React** (Vite or CRA, depending on your setup)
+- **Material UI (MUI) v5**
+- **JavaScript (ES6+)**
